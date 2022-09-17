@@ -11,22 +11,18 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
--
+
 
 ### The challenge
 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
 
 ### Screenshot
 
-![Mobile view]()
-
-![Desktop View](QR-code-component-main\images\Screenshot 2022-09-17 at 13-10-53 Frontend Mentor QR code component.png)
+![Desktop View](/images/Screenshot 2022-09-17 at 13-10-53 Frontend Mentor QR code component.png)
 
 ### Links
 
@@ -34,10 +30,7 @@ Users should be able to:
 - Live Site URL: [](https://teboola.github.io/NFT-Recreate/)
 
 ## My process
-
 Nothing much here, trust me.
-I put all my text and img in a container, then style my container to be at the center of the page. Added a main before the container with a margin-top to push the container down a bit. Then styling other things come easily.
-Major thing here, was displaying flex the (eth icon and text) with the (clock icon and text).
 
 ### Built with
 
