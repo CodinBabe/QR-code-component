@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [](https://github.com/teboola/QR-code-component)
-- Live Site URL: [](https://teboola.github.io/NFT-Recreate/)
+- Live Site URL: [](https://teboola.github.io/QR-code-component/)
 
 ## My process
 Nothing much here, trust me.
