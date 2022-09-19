@@ -21,7 +21,7 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-![Desktop View](./images/Screenshot%202022-09-17%20at%2003-34-00%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
+![Desktop View](./images/Screenshot%202022-09-17%20at%2013-10-53%20Frontend%20Mentor%20QR%20code%20component.png)
 
 ### Links
 
@@ -47,6 +47,6 @@ I will continue to learn, unlearn and relearn till web design become a natural t
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Oluwatoyin](https://www.your-site.com)
 - Frontend Mentor - [@teboola](https://www.frontendmentor.io/profile/teboola)
 - Twitter - [@tozim_bakes](https://twitter.com/tozim_bakes)
