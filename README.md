@@ -21,8 +21,7 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-Desktop View:
-![/images/Screenshot 2022-09-17 at 13-10-53 Frontend Mentor QR code component.png]()
+![Desktop View](./images/Screenshot%202022-09-17%20at%2003-34-00%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
 
 ### Links
 
