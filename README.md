@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 Desktop View:
-![./images/Screenshot 2022-09-17 at 13-10-53 Frontend Mentor QR code component.png]()
+![/images/Screenshot 2022-09-17 at 13-10-53 Frontend Mentor QR code component.png]()
 
 ### Links
 
