@@ -21,13 +21,13 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-
-![Desktop View](/images/Screenshot 2022-09-17 at 13-10-53 Frontend Mentor QR code component.png)
+Desktop View:
+![./images/Screenshot 2022-09-17 at 13-10-53 Frontend Mentor QR code component.png]()
 
 ### Links
 
-- Solution URL: [](https://github.com/teboola/QR-code-component)
-- Live Site URL: [](https://teboola.github.io/QR-code-component/)
+- Solution URL: [https://github.com/teboola/QR-code-component]()
+- Live Site URL: [https://teboola.github.io/QR-code-component/]()
 
 ## My process
 Nothing much here, trust me.
