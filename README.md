@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/teboola/QR-code-component]()
-- Live Site URL: [https://teboola.github.io/QR-code-component/]()
+- Solution URL: [https://github.com/CodinBabe/QR-code-component]()
+- Live Site URL: [https://codinbabe.github.io/QR-code-component/]()
 
 ## My process
-Nothing much here, trust me.
+I created a main with a margin 0 auto to push it to the center of the page, the main contain divs and was style with some margins, paddings and text align.
 
 ### Built with
 
